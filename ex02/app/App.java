@@ -34,7 +34,7 @@ public class App {
 
         List <Register> averageHeight = list.stream().filter(x -> x.getAge() >= 10 && x.getAge() <= 20).collect(Collectors.toList());
         double average = calcHeightAverage(averageHeight);
-        System.out.println("\nThe average heights of people between 10 and 20 years of age is: " + average / averageHeight.size());
+        System.out.println("\nThe average height from people with age between 10 and 20 years is: " + average / averageHeight.size());
 
         List <Register> lessThen40 = list.stream().filter(x -> x.getWeight() < 40).collect(Collectors.toList());
         int percentage = (lessThen40.size() * 100 / 5);
