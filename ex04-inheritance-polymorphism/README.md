@@ -16,9 +16,10 @@ The legal person data are:
 
 The rules to calculate the taxes are:
 
-:small_orange_diamond: **Natural person**: If the annual income is below U$ 20000.0, 15% of the value is charged. If the annual income is U$ 20000.00 or above, 25% of the value is charged. If there was health expenses, 50% of these expenses are deducted from the tax.  
+* **Natural person**: If the annual income is below U$ 20000.0, 15% of the value is charged. If the annual income is U$ 20000.00 or above, 25% of the value is charged. If there was health expenses, 50% of these expenses are deducted from the tax.
+    
 
-:small_orange_diamond:**Legal person**: Pay 16% tax. However, if the company has more then 10 employees, it pays 14% tax.
+* **Legal person**: Pay 16% tax. However, if the company has more then 10 employees, it pays 14% tax.
 <br>
 
 ## AND THAT'S IT!!!
