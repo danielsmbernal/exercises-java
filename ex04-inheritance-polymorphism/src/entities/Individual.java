@@ -27,6 +27,4 @@ public class Individual extends TaxPayer {
         }
          return result;
     }
-    
-    
 }

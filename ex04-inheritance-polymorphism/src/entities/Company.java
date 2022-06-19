@@ -28,8 +28,4 @@ public class Company extends TaxPayer {
 
         return result;
     }
-
-
-    
-    
 }
